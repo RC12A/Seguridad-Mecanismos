@@ -1,3 +1,3 @@
-# Seguridad-Mecanismos
+# Mecanismos de Seguridad
 Examén
 - Ramón A. Camargo A.
